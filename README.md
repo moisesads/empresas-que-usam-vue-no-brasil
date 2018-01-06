@@ -58,6 +58,7 @@ Planos Assessoria | https://www.planosassessoria.com.br | Node, MongoDB, Postgre
 Plugae | https://www.plugae.com.br | Laravel, NodeJS, PostreSQL, Vue | Barueri/SP
 Precisão Sistemas | http://www.precisaosistemas.com.br | Vue, Vuex, Angular 1.x, Electron | Jales/SP
 Prodweb | https://www.prodweb.com.br/ | Vue, Vuex | Passa Quatro/MG
+PsiquEasy | https://www.psiqueasy.com.br | Vue, Vuex, Vue Router, Axios, Laravel, PHP, MariaDB | Firmino Alves/BA
 Raro Labs | https://rarolabs.com.br/ | Vue, Vuex, Angular, Node, Ruby on Rails | Belo Horizonte/MG
 RealizaTI | http://realizati.com.br | Node
 Rebuut Criação e Comunicação Digital | https://www.rebuut.com.br/ | PHP, Vue, Laravel, MySQL, AWS | Sâo José do Rio Preto/SP
